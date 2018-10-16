@@ -6,8 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node api.js"
-
-
   },
   "repository": {
     "type": "git",
@@ -21,6 +19,8 @@
   "homepage": "https://github.com/MatteoLuca98/lezione3#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "fetch": "^1.1.0",
+    "node": "^10.12.0"
   }
 }
