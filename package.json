@@ -1,0 +1,23 @@
+{
+  "name": "lezione3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "web: node api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatteoLuca98/lezione3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatteoLuca98/lezione3/issues"
+  },
+  "homepage": "https://github.com/MatteoLuca98/lezione3#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
